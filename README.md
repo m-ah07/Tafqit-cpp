@@ -12,7 +12,7 @@ This project is ideal for anyone looking to implement efficient and customizable
 ## Usage
 Here's an example of how to use the Tafqit service in your C++ project:
 
-   ```bash
+   ```
       #include "src/tafqit.h"
       #include <iostream>
       
@@ -45,14 +45,14 @@ tafqit-cpp/
 
 ## Getting Started
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/marwan-ahmed-23/Tafqit-cpp.git
    cd tafqit-cpp
 2. Build the project
-   ```bash
+   ```
    make
 3. Run the example
-   ```bash
+   ```
    ./example
    ```   
 
