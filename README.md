@@ -4,12 +4,12 @@ Tafqit-C++ is a practical solution designed to convert numbers into words, tailo
 
 This project is ideal for anyone looking to implement efficient and customizable number-to-words conversion in their C++ applications.
 
-## Features
+## 🚀 Features
 - Convert numbers to words in English.
 - Modular design for adding support for other languages.
 - Simple and clean implementation using C++.
 
-## Usage
+## 📖 Usage
 Here's an example of how to use the Tafqit service in your C++ project:
 
    ```bash
@@ -26,24 +26,27 @@ Here's an example of how to use the Tafqit service in your C++ project:
 
 This example demonstrates a basic usage of the Tafqit service to convert a number into words. You can extend it further by integrating it with your application or adding support for more languages.
 
-## Folder Structure
+## 📂 Folder Structure
+```plaintext
 tafqit-cpp/
 ├── src/
-│   ├── tafqit.h         # Header file for tafqit functions
-│   └── tafqit.cpp       # Implementation of tafqit functions
+│   ├── tafqit.h
+│   └── tafqit.cpp
 ├── examples/
-│   └── example.cpp      # Example usage of the library
+│   └── example.cpp
 ├── tests/
-│   └── test_tafqit.cpp  # Unit tests for tafqit functions
-├── README.md            # Project documentation
-└── Makefile             # Build script
+│   └── test_tafqit.cpp
+├── LICENSE
+├── README.md
+└── Makefile
+```
 
-## Requirements
+## ⚙️ Requirements
 - C++ Compiler: A compiler that supports C++11 or later (e.g., GCC, Clang).
 - Development Environment: An IDE or text editor suitable for C++ development (e.g., Visual Studio, Code::Blocks).
 - Build System: Make utility for building the project using the provided Makefile.
 
-## Getting Started
+## 🔧 Getting Started
 1. Clone this repository:
    ```bash
    git clone https://github.com/marwan-ahmed-23/Tafqit-cpp.git
@@ -56,7 +59,7 @@ tafqit-cpp/
    ./example
    ```   
 
-## Contributions
+## 🤝 Contributions
 We welcome contributions to expand this project. Feel free to:
 
 - Add New Features: Enhance the project by implementing additional functionality, such as support for more languages or advanced formatting options.
@@ -66,3 +69,5 @@ We welcome contributions to expand this project. Feel free to:
 
 Your contributions are valuable and greatly appreciated!
 
+## 🌟 Show Your Support
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
