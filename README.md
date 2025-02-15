@@ -49,7 +49,7 @@ tafqit-cpp/
 ## 🔧 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/marwan-ahmed-23/Tafqit-cpp.git
+   git clone https://github.com/m-ah07/Tafqit-cpp.git
    cd tafqit-cpp
 2. Build the project
    ```bash
